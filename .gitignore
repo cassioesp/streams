@@ -51,3 +51,7 @@ yarn-error.log*
 /client/node_modules
 /client/.idea
 
+#Api
+/api/node_modules
+/api/.idea
+
