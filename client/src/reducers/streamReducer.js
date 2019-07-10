@@ -21,6 +21,5 @@ export default (state = {}, action) => {
             return _.omit(state, action.payload);
         default:
             return state;
-
     }
 }
